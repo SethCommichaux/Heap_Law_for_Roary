@@ -1,8 +1,7 @@
 # Heap_Law_for_Roary
 This python3 program calculates the Heap Law from the gene_presence_absence.Rtab Roary output file.
 
-Here we estimate the parameters k and γ for the Heap Law equation:
-n = κN<sup>γ</sup>
+Here we estimate the parameters k and γ for the Heap Law equation, n = κN<sup>γ</sup>, where n is the number of pangenome genes and N is the number of genomes.
 
 If γ < 0, the pangenome is closed. If γ > 0, the pangenome is open.
 
